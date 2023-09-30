@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "source.fixAll.tslint": true,
+    "source.fixAll.eslint": true
+  },
+  "extensions": {
+    "recommendations": [
+      "aaron-bond.better-comments",
+      "streetsidesoftware.code-spell-checker",
+      "dbaeumer.vscode-eslint",
+      "eamodio.gitlens",
+      "esbenp.prettier-vscode",
+      "Gruntfuggly.todo-tree",
+      "shd101wyy.markdown-preview-enhanced",
+      "vscode-icons-team.vscode-icons",
+      "editorconfig.editorconfig",
+      "dsznajder.es7-react-js-snippets",
+      "dotenv.dotenv-vscode"
+    ]
+  }
+}

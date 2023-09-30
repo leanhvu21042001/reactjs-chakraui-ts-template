@@ -1,0 +1,22 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": ["Chakra", "Formik", "tanstack"],
+  "workbench.iconTheme": "vscode-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.guides.bracketPairs": true,
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "editor.codeActionsOnSave": {
+    // "source.fixAll": true,
+    // "source.sortImports": true
+  },
+  "[css]": {
+    "editor.suggest.insertMode": "replace"
+  },
+  "editor.linkedEditing": true,
+  "files.autoSave": "afterDelay",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 4,
+  "editor.fontSize": 16
+}
