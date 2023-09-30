@@ -1,37 +1,26 @@
-# LAVDEV SHOP
+# Initialize React.js project with Chakra UI
 
-## Clone project
+## Setup project and run project
 
-```sh
-git clone https://github.com/leanhvu21042001/lavdev-shop.git
-```
-
-## Install dependencies and DevDependencies
-
-- Download [NVM](https://github.com/nvm-sh/nvm)
-- Run file `./nvm-setup.sh`
+- Download [NVM](https://github.com/nvm-sh/nvm) and run command with below script to use right node version for this project
 
 ```sh
-yarn
+bash ./nvm-setup.sh
 ```
 
-## Scripts
+- Run `yarn install` to download packages
 
-- Build: `yarn build`
-<!-- - Start build: `yarn start` -->
-- Start Development: `yarn start`
+```sh
+yarn install
+```
 
-## Rules commit
+- Run `yarn start` to run project
 
-- Prevent commit at branch dev and branch main
-- Prevent push at branch main
+```sh
+yarn start
+```
+
+## Rules
+
 - [Conventional commits](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional)
-
-## JavaScript Style
-
-- [Eslint](https://eslint.org/)
-
-## VSCODE
-
-- Install extensions for project
-  ![alt](./docs/images/vscode-extensions.png)
+- [Eslint](https://eslint.org/): Javascript check
